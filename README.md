@@ -1,3 +1,5 @@
+MODIFICADO EN VSCODE
+
 # PitTacos — Inventario y Capacitaciones
 
 PWA para gestionar inventario por conteo de turno, recepciones de proveedor, surtido automático, reportes y capacitaciones. Diseñada para **3 sucursales independientes** con 2 turnos diarios.
