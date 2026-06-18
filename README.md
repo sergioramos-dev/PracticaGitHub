@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 MODIFICADO EN VSCODEs
+=======
+MODIFICADO EN VSCODE 
+mod en git
+>>>>>>> bd85b2bd209ee0c472e5ed492da8e0c0322da359
 
 # PitTacos — Inventario y Capacitaciones
 
