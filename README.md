@@ -1,4 +1,5 @@
-MODIFICADO EN VSCODE
+MODIFICADO EN VSCODE 
+mod en git
 
 # PitTacos — Inventario y Capacitaciones
 
