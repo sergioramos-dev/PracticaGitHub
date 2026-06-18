@@ -1,4 +1,4 @@
-MODIFICADO EN VSCODE
+MODIFICADO EN VSCODEs
 
 # PitTacos — Inventario y Capacitaciones
 
